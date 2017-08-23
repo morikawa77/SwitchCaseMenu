@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/SwitchCaseMenu/bin/Debug/SwitchCaseMenu.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/SwitchCaseMenu/bin/Debug/SwitchCaseMenu.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/SwitchCaseMenu/obj/x86/Debug/SwitchCaseMenu.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/SwitchCaseMenu/obj/x86/Debug/SwitchCaseMenu.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/SwitchCaseMenu/obj/x86/Debug/SwitchCaseMenu.pdb
